@@ -1,0 +1,12 @@
+digraph {
+	size="20,20!"
+	<BTreeNode.BTreeNode object at 0x0000026F03BA48B0> [label="[3, 11, 15]"]
+	<BTreeNode.BTreeNode object at 0x0000026F03BA45B0> [label="[0, 1, 2]"]
+	<BTreeNode.BTreeNode object at 0x0000026F03BA48B0> -> <BTreeNode.BTreeNode object at 0x0000026F03BA45B0>
+	<BTreeNode.BTreeNode object at 0x0000026F03BA4E80> [label="[4, 6, 7, 8, 9, 10]"]
+	<BTreeNode.BTreeNode object at 0x0000026F03BA48B0> -> <BTreeNode.BTreeNode object at 0x0000026F03BA4E80>
+	<BTreeNode.BTreeNode object at 0x0000026F03FDE970> [label="[12, 13, 14]"]
+	<BTreeNode.BTreeNode object at 0x0000026F03BA48B0> -> <BTreeNode.BTreeNode object at 0x0000026F03FDE970>
+	<BTreeNode.BTreeNode object at 0x0000026F03FDE9A0> [label="[16, 17, 18, 19]"]
+	<BTreeNode.BTreeNode object at 0x0000026F03BA48B0> -> <BTreeNode.BTreeNode object at 0x0000026F03FDE9A0>
+}
